@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Vesper"
 title_separator          : "|"
-name                     : &name "Vesper (Chuyan Li)"
+name                     : &name "Chuyan Li"
 description              : &description "A personal academic website."
 url                      : "https://shiveringown.github.io" # Your base hostname & protocol
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "shiveringown/shiveringown.github.io" # Your GitHub r
 author:
   # Biographic information
   avatar           : "profile.png" # Make sure you have a profile.png in your /images/ folder
-  name             : "Vesper (Chuyan Li)"
+  name             : "Chuyan Li"
   pronouns         : "she/her"  
   bio              : "Undergraduate student at SUSTech, passionate about AI Safety, Alignment, and Neuro-symbolic AI."
   location         : "Shenzhen, China"
